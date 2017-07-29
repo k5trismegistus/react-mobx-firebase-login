@@ -1,0 +1,6 @@
+node_modules
+.vscode
+npm-debug.log
+.DS_Store
+.firebaserc
+src/util/firebase/config.js
